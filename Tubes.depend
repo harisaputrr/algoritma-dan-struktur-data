@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1524736267 source:c:\users\harisaputr\desktop\tubes\tubes\common.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"common.h"
+
+1524730136 c:\users\harisaputr\desktop\tubes\tubes\common.h
+	"product.h"
+	"customer.h"
+	"rating.h"
+
+1524713039 c:\users\harisaputr\desktop\tubes\tubes\product.h
+
+1524728646 c:\users\harisaputr\desktop\tubes\tubes\customer.h
+
+1524714983 c:\users\harisaputr\desktop\tubes\tubes\rating.h
+	"customer.h"
+	"product.h"
+
+1524699741 source:c:\users\harisaputr\desktop\tubes\tubes\main.cpp
+	<iostream>
+	"common.h"
+
+1524714144 source:c:\users\harisaputr\desktop\tubes\tubes\product.cpp
+	<iostream>
+	"product.h"
+
+1524722799 source:c:\users\harisaputr\desktop\tubes\tubes\rating.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"rating.h"
+
+1524735376 source:c:\users\harisaputr\desktop\tubes\tubes\customer.cpp
+	<iostream>
+	<conio.h>
+	"customer.h"
+
+1524907669 source:c:\users\galactica\downloads\if 41-07\tubes\common.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"common.h"
+
+1524906376 c:\users\galactica\downloads\if 41-07\tubes\common.h
+	"product.h"
+	"customer.h"
+	"rating.h"
+
+1524713039 c:\users\galactica\downloads\if 41-07\tubes\product.h
+
+1524728646 c:\users\galactica\downloads\if 41-07\tubes\customer.h
+
+1524714983 c:\users\galactica\downloads\if 41-07\tubes\rating.h
+	"customer.h"
+	"product.h"
+
+1524754736 source:c:\users\galactica\downloads\if 41-07\tubes\customer.cpp
+	<iostream>
+	<conio.h>
+	"customer.h"
+
+1524699741 source:c:\users\galactica\downloads\if 41-07\tubes\main.cpp
+	<iostream>
+	"common.h"
+
+1524714144 source:c:\users\galactica\downloads\if 41-07\tubes\product.cpp
+	<iostream>
+	"product.h"
+
+1524906221 source:c:\users\galactica\downloads\if 41-07\tubes\rating.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"rating.h"
+
+1525051575 source:c:\users\harisaputr\desktop\tubessalman revisi terakhir\tubes\common.cpp
+	"common.h"
+
+1525049156 c:\users\harisaputr\desktop\tubessalman revisi terakhir\tubes\common.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	"product.h"
+	"customer.h"
+	"rating.h"
+
+1525014400 c:\users\harisaputr\desktop\tubessalman revisi terakhir\tubes\product.h
+
+1524728646 c:\users\harisaputr\desktop\tubessalman revisi terakhir\tubes\customer.h
+
+1525051958 c:\users\harisaputr\desktop\tubessalman revisi terakhir\tubes\rating.h
+	"customer.h"
+	"product.h"
+
+1525051029 source:c:\users\harisaputr\desktop\tubessalman revisi terakhir\tubes\customer.cpp
+	<iostream>
+	<conio.h>
+	"customer.h"
+
+1524977231 source:c:\users\harisaputr\desktop\tubessalman revisi terakhir\tubes\main.cpp
+	"common.h"
+
+1525051727 source:c:\users\harisaputr\desktop\tubessalman revisi terakhir\tubes\product.cpp
+	<iostream>
+	"product.h"
+
+1525051958 source:c:\users\harisaputr\desktop\tubessalman revisi terakhir\tubes\rating.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"rating.h"
+
+1525053306 source:c:\users\harisaputr\desktop\tubes_if4107_1301174227-1301174440\tubes\common.cpp
+	"common.h"
+
+1525049156 c:\users\harisaputr\desktop\tubes_if4107_1301174227-1301174440\tubes\common.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	"product.h"
+	"customer.h"
+	"rating.h"
+
+1525014400 c:\users\harisaputr\desktop\tubes_if4107_1301174227-1301174440\tubes\product.h
+
+1524728646 c:\users\harisaputr\desktop\tubes_if4107_1301174227-1301174440\tubes\customer.h
+
+1525051958 c:\users\harisaputr\desktop\tubes_if4107_1301174227-1301174440\tubes\rating.h
+	"customer.h"
+	"product.h"
+
+1525051029 source:c:\users\harisaputr\desktop\tubes_if4107_1301174227-1301174440\tubes\customer.cpp
+	<iostream>
+	<conio.h>
+	"customer.h"
+
+1524977231 source:c:\users\harisaputr\desktop\tubes_if4107_1301174227-1301174440\tubes\main.cpp
+	"common.h"
+
+1525051727 source:c:\users\harisaputr\desktop\tubes_if4107_1301174227-1301174440\tubes\product.cpp
+	<iostream>
+	"product.h"
+
+1525051958 source:c:\users\harisaputr\desktop\tubes_if4107_1301174227-1301174440\tubes\rating.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"rating.h"
+
